@@ -11,7 +11,7 @@
 
 - [Mix ’n Match: Integrating Text Matching and Product Substitutability within Product Search](https://github.com/cvangysel/cuNVSM). Christophe Van Gysel, Maarten de Rijke, and Evangelos Kanoulas. CIKM.
 
-- [Ranking for Relevance and Display Preferences in Complex Presentation Layouts](https://github.com/HarrieO/RankingComplexLayouts). Harrie Oosterhuis and Maarten de Rijke. CIKM.
+- [Ranking for Relevance and Display Preferences in Complex Presentation Layouts](https://github.com/HarrieO/RankingComplexLayouts). Harrie Oosterhuis and Maarten de Rijke. SIGIR.
 
 - [SearchX: Empowering Collaborative Search Research](https://github.com/felipemoraes/felipemoraes.github.io). Sindunuraga Rikarno Putra, Felipe Moraes, and Claudia Hauff. SIGIR. 
 
