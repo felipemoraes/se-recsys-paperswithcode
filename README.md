@@ -1,4 +1,4 @@
-# Search and Recommender Systems papers with Code
+# Search and Recommender Systems Papers with Code
 
 # 2019
 
