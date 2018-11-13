@@ -23,7 +23,7 @@
 
 - [Balancing speed and quality in online learning to rank for information retrieval](https://github.com/HarrieO/BalancingSpeedQualityOLTR). Harrie Oosterhuis and Maarten de Rijke. CIKM.
 
-- [Learning to Match Using Local and Distributed Representations of Text for Web Search]. Bhaskar Mitra, Fernando Diaz, and Nick Craswell. WWW.
+- [Learning to Match Using Local and Distributed Representations of Text for Web Search](https://github.com/bmitra-msft/NDRM/blob/master/notebooks/Duet.ipynb). Bhaskar Mitra, Fernando Diaz, and Nick Craswell. WWW.
 
 # 2016
 
