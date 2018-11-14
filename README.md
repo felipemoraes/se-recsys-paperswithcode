@@ -27,6 +27,8 @@
 
 - [Temporal Effects on Hashtag Reuse in Twtter: A Cognitive-Inspired Hashtag Recommendation Approach](https://github.com/learning-layers/TagRec). Dominik Kowald, Subhash Pujari, and Elisabeth Lex. WWW.
 
+- [On effective dynamic search in specialized domains](https://github.com/felipemoraes/dynamic). Felipe Moraes, Rodrygo L. T. Santos and Nivio Ziviani. ICTIR.
+
 # 2016
 
 - [Learning Latent Vector Spaces for Product Search](https://github.com/cvangysel/SERT). Christophe Van Gysel, Maarten de Rijke, and Evangelos Kanoulas. CIKM. 
