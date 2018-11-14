@@ -25,6 +25,8 @@
 
 - [Learning to Match Using Local and Distributed Representations of Text for Web Search](https://github.com/bmitra-msft/NDRM/blob/master/notebooks/Duet.ipynb). Bhaskar Mitra, Fernando Diaz, and Nick Craswell. WWW.
 
+- [Temporal Effects on Hashtag Reuse in Twtter: A Cognitive-Inspired Hashtag Recommendation Approach](https://github.com/learning-layers/TagRec). Dominik Kowald, Subhash Pujari, and Elisabeth Lex. WWW.
+
 # 2016
 
 - [Learning Latent Vector Spaces for Product Search](https://github.com/cvangysel/SERT). Christophe Van Gysel, Maarten de Rijke, and Evangelos Kanoulas. CIKM. 
