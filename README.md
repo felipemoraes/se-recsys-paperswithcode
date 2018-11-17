@@ -4,18 +4,19 @@
 
 - [When People Change Their Mind: Off-Policy Evaluation in Non-stationary Recommendation Environments](https://github.com/rjagerman/wsdm2019-nonstationary). Rolf Jagerman, Ilya Markov and Maarten de Rijke. WSDM.
 
-
 # 2018
 
-- [Modeling Diverse Relevance Patterns in Ad-hoc Retrieval](https://github.com/faneshion/HiNT). Yixing Fan, Jiafeng Guo, Yanyan Lan, Jun Xu, Chengxiang Zhai, Xueqi Cheng. SIGIR.
+- [From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing](https://github.com/hamed-zamani/snrm).Hamed Zamani, Mostafa Dehghani, W. Bruce Croft, Erik Learned-Miller, and Jaap Kamps. CIKM.
+
+- [Differentiable Unbiased Online Learning to Rank](https://github.com/HarrieO/OnlineLearningToRank). Harrie Oosterhuis and Maarten de Rijke. CIKM.
 
 - [Mix ’n Match: Integrating Text Matching and Product Substitutability within Product Search](https://github.com/cvangysel/cuNVSM). Christophe Van Gysel, Maarten de Rijke, and Evangelos Kanoulas. CIKM.
+
+- [Modeling Diverse Relevance Patterns in Ad-hoc Retrieval](https://github.com/faneshion/HiNT). Yixing Fan, Jiafeng Guo, Yanyan Lan, Jun Xu, Chengxiang Zhai, Xueqi Cheng. SIGIR.
 
 - [Ranking for Relevance and Display Preferences in Complex Presentation Layouts](https://github.com/HarrieO/RankingComplexLayouts). Harrie Oosterhuis and Maarten de Rijke. SIGIR.
 
 - [SearchX: Empowering Collaborative Search Research](https://github.com/felipemoraes/felipemoraes.github.io). Sindunuraga Rikarno Putra, Felipe Moraes, and Claudia Hauff. SIGIR. 
-
-- [Differentiable Unbiased Online Learning to Rank](https://github.com/HarrieO/OnlineLearningToRank). Harrie Oosterhuis and Maarten de Rijke. CIKM.
 
 # 2017
 
